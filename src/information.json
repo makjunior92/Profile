@@ -1,0 +1,51 @@
+{
+  "name": "Mohiuddin Abdul Kader",
+  "bsUni": "North South University, Dhaka",
+  "bsDegree": "BSc in Computer Science and Engineering",
+  "hometown": "Feni, Bangladesh",
+  "interestedIn": "Machine Learning, Artificial Intelligence, Network Security, Software Engineering",
+  "hobbies": "Badminton, Chess, Books",
+  "email": "makjunior92@gmail.com",
+  "github": "https://github.com/makjunior92",
+  "fiverr": "https://www.fiverr.com/mak_999",
+  "twitter": "https://twitter.com/Makjunior92",
+  "linkedin": "https://www.linkedin.com/in/mohiuddin-kader-052bb1b6/",
+  "prolang": "C, C++, Java, HTML5, CSS3, Python, Javascript, PHP, Verilog, Bootstrap, Vue.js, Laravel, Django, Flask, mysql",
+  "personal_website": "http://www.makwebsite.com/mak",
+
+  "experience": [
+    {
+      "title": "katzcy.com",
+      "role": "Web Developer",
+      "years":"Dec 2019 - Dec 2020 (1 year) "
+    },
+    {
+      "title": "Freelancer at Fiverr.com (An online freelancing marketplace)",
+      "role": "Software Engineer",
+      "years":"2017 - present"
+    },
+    {
+      "title": "TechTrioz",
+      "role": "Software Engineer",
+      "years":"Feb 2021 - present"
+    }
+  ],
+
+  "projects": [
+       {
+         "title": "Multivendor Ecommerce Website",
+         "link": "http://www.supersonictechnologies.com/ecommerce/"
+
+       },
+    {
+      "title": "Online Bus Ticket Booking System",
+      "link": "http://demoticket.herokuapp.com/"
+
+    },
+    {
+      "title": "CMS",
+      "link": "http://microtechbd.herokuapp.com/dashboard"
+
+    }
+  ]
+}
