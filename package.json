@@ -1,6 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
+  "homepage": "http://www.makwebsite.com/profile/",
   "private": true,
   "dependencies": {
     "@babel/core": "7.12.7",

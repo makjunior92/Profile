@@ -84,7 +84,7 @@ export const takeTo = (key:string):string => {
         case 'linkedin':
             url = information.linkedin;
             break;
-        case 'personal_website':
+        case 'website':
             url = information.personal_website;
             break;
         case 'github':

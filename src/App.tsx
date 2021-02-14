@@ -41,7 +41,7 @@ class App extends Component<{}, {}> {
                         'projects':() => projects(),
                         'fiverr': () => takeTo('fiverr'),
                         'linkedin': () => takeTo('linkedin'),
-                        'personal_website': () => takeTo('personal_website'),
+                        'website': () => takeTo('website'),
                         'github': () => takeTo('github'),
                     }}
                     msg={
